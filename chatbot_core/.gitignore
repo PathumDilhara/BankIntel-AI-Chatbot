@@ -81,3 +81,5 @@ datasets/
 bert_model/
 *.bin
 *.pt
+
+tunned/
