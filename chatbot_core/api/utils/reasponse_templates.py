@@ -1,7 +1,7 @@
 response_templates = {
 
     "card": {
-        "message": "This is a card-related issue. What would you like to do?",
+        "message": "I can help with your card. What would you like to do?",
         "options": [
             {"label": "Block Card", "action": "block_card"},
             {"label": "Report Issue", "action": "card_support"},
@@ -10,7 +10,7 @@ response_templates = {
     },
 
     "transfer": {
-        "message": "Transfer issue detected. Choose an option:",
+        "message": "Let's sort out your transfer. Choose an option below.",
         "options": [
             {"label": "Check Status", "action": "check_transfer"},
             {"label": "Cancel Transfer", "action": "cancel_transfer"},
@@ -19,7 +19,7 @@ response_templates = {
     },
 
     "topup": {
-        "message": "Top-up related help options:",
+        "message": "Need help with a top-up?",
         "options": [
             {"label": "Top-up Failed", "action": "topup_failed"},
             {"label": "Top-up Limits", "action": "topup_limits"}
@@ -27,7 +27,7 @@ response_templates = {
     },
 
     "balance": {
-        "message": "Balance issue detected. What do you need?",
+        "message": "I can help with your balance or recent transactions.",
         "options": [
             {"label": "Check Balance", "action": "check_balance"},
             {"label": "Transaction Issue", "action": "txn_issue"}
@@ -35,7 +35,7 @@ response_templates = {
     },
 
     "payment": {
-        "message": "Payment-related issue. Choose one:",
+        "message": "Let's take a look at your payment issue.",
         "options": [
             {"label": "Dispute Payment", "action": "dispute_payment"},
             {"label": "Check Charges", "action": "check_charges"}
@@ -43,7 +43,7 @@ response_templates = {
     },
 
     "verification": {
-        "message": "Identity verification help:",
+        "message": "I can help with account verification",
         "options": [
             {"label": "Verify Identity", "action": "verify_identity"},
             {"label": "Why Needed?", "action": "why_verify"}
