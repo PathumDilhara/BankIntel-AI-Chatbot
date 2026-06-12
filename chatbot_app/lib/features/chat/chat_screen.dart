@@ -129,7 +129,7 @@ class _ChatScreenState extends State<ChatScreen> {
                                             CrossAxisAlignment.start,
                                         children: [
                                           Text(conversation.msg!),
-                                          SizedBox(height: 5),
+                                          SizedBox(height: 10),
 
                                           if (hasOptions)
                                             Column(
