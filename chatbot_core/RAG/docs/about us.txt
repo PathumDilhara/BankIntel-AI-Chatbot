@@ -1,119 +1,116 @@
-සිංහල
-தமிழ்
-About us
-Branches/ATMs
-Investors
-News
-Careers
-Contact us
-Overseas Operations
-Search
+================================================================================
+COMMERCIAL BANK OF CEYLON PLC - COMPLETE WEBSITE CONTENT (FOR RAG)
+================================================================================
+
+================================================================================
+SECTION 1: LANGUAGE & MAIN NAVIGATION
+================================================================================
+
+Languages: සිංහල | தமிழ்
+
+Main Navigation:
+- About us
+- Branches/ATMs
+- Investors
+- News
+- Careers
+- Contact us
+- Overseas Operations
+- Search
 
 Accessibility Options
-Personal Banking
-Business Banking
-Non Resident Banking
-Services
-ComBank Digital
-Online Banking
 
+Banking Sections:
+- Personal Banking
+- Business Banking
+- Non Resident Banking
+- Services
+- ComBank Digital
+- Online Banking
 
-Commercial bank contact
-Contact
-Commercial bank mail
-Mail
-Commercial bank branches/atms
-Branches/ATMs
-Commercial bank calculators
-Calculators
-Commercial bank exchange rates
-Exchange Rates
-Commercial bank contact
-About Us
-Over a Century of Banking
+Contact Tools:
+- Contact (Page)
+- Mail (Email link)
+- Branches/ATMs (Locator)
+- Calculators
+- Exchange Rates
+
+================================================================================
+SECTION 2: ABOUT US - OVERVIEW & PHILOSOPHY
+================================================================================
+
+About Us: Over a Century of Banking.
 Having set a benchmark in banking in Sri Lanka we have set standards, created an identity and forged an unsurpassable trend. Recognised as a trend setter, we have maintained our cultural identity while providing a range of products and services. Powered by state-of-the-art technology and driven by a team of highly motivated, dynamic individuals we have become the leader in private banking in Sri Lanka.
 
-Overview
-Meet Our Leaders
-Awards & Achievements
-Sustainability
-Financials
-History
-Vision
-To be the most technologically advanced, innovative and customer friendly financial services organisation in Sri Lanka, poised for further expansion in South Asia
+Sub-pages under About Us:
+- Overview
+- Meet Our Leaders
+- Awards & Achievements
+- Sustainability
+- Financials
+- History
 
-Mission
-Providing reliable, innovative, customer friendly financial services, utilizing cutting edge technology and focusing continuously on productivity improvement whilst developing our staff and acquiring necessary expertise to expand locally and regionally
+Vision:
+To be the most technologically advanced, innovative and customer friendly financial services organisation in Sri Lanka, poised for further expansion in South Asia.
 
-History
-Commercial Bank of Ceylon PLC (also known as Commercial Bank or ComBank) has 100 years of unparalleled growth and achievement. Having made a distinctive mark in Sri Lankan banking history, we stand out for our superlative service and technological superiority.
+Mission:
+Providing reliable, innovative, customer friendly financial services, utilizing cutting edge technology and focusing continuously on productivity improvement whilst developing our staff and acquiring necessary expertise to expand locally and regionally.
 
-Find out more
-Meet Our Leaders
-Board of Directors
-Corporate Management
-Past Managing Directors
-Past Chairmen
-Our Board of Directors has individually and collectively made a unique contribution to our growth. Together they have brought in leadership, innovation and a flair that has set a benchmark that cannot be matched.
+================================================================================
+SECTION 3: LEADERSHIP (MEET OUR LEADERS)
+================================================================================
 
+Board of Directors:
+- Sharhan Muhseen – Chairman
+- Raja Senanayake – Deputy Chairman
+- Sanath Manatunge – Managing Director / Chief Executive Officer
+- Judy Lee – Director
+- Thushara Wijewardena – Director
+- Dr. Sivakumar Selliah – Director
+- Nimal Fernando – Director
+- Palitha Kumarasinghe PC – Director
+- Yohan Perera – Director
+- Romany Parakrama – Independent / Non-Executive Director
+- Hasrath Munasinghe – Executive Director / Chief Operating Officer
+- Pramith Rajapaksha – Company Secretary
 
+Also referenced: Past Managing Directors, Past Chairmen.
 
-Sharhan Muhseen
-Chairman
-Raja Senanayake
-Deputy Chairman
-Sanath Manatunge
-Managing Director / Chief Executive Officer
-Judy Lee
-Director
-Thushara Wijewardena
-Director
-Dr. Sivakumar Selliah
-Director
-Nimal Fernando
-Director
-Palitha Kumarasinghe PC
-Director
-Yohan Perera
-Director
-Romany Parakrama
-Independent / Non-Executive Director
-Hasrath Munasinghe
-Executive Director / Chief Operating Officer
-Pramith Rajapaksha
-Company Secretary
-Awards & Achievements
-Year after year we are conferred with new awards and accolades by local and foreign independent organizations which have recognized Commercial Bank for its outstanding contribution to the Banking Industry. Very few Sri Lankan banks have won such awards for excellence.
+================================================================================
+SECTION 4: AWARDS & ACHIEVEMENTS
+================================================================================
 
-2026
-2025
-2024
-Others
-Financials
-Invest with us for a brighter tomorrow
+Awards & Achievements: Year after year we are conferred with new awards and accolades by local and foreign independent organizations which have recognized Commercial Bank for its outstanding contribution to the Banking Industry. Very few Sri Lankan banks have won such awards for excellence.
 
-Annual Reports - 2025
-Annual Reports - 2025
-Interactive Version
-Annual Reports
-Basel III & Risk Management Disclosures
-Interim Financials
-Economic Capsule
-Latest Market Watch Report
-Sustainability
-At Commercial Bank, Sustainability ranks high on our agenda among our top business priorities; Sustainability has always been central to our philosophy and is entwined in our culture and in how we conduct business. We focus our efforts towards Sustainable Development under five strategic themes – i.e Financial Inclusion and Literacy, Social and Environmental Risk Assessment, Green Finance, Environment Conservation and Education.
+Year categories: 2026, 2025, 2024, Others
 
+================================================================================
+SECTION 5: FINANCIALS & INVESTOR INFORMATION
+================================================================================
 
-Commitment to Sustainability
+Financials: Invest with us for a brighter tomorrow.
+- Annual Reports - 2025 (Interactive Version available)
+- Annual Reports (Archive)
+- Basel III & Risk Management Disclosures
+- Interim Financials
+- Economic Capsule
+- Latest Market Watch Report
 
+================================================================================
+SECTION 6: SUSTAINABILITY
+================================================================================
 
-Corporate Social Responsibility
+Sustainability: At Commercial Bank, Sustainability ranks high on our agenda among our top business priorities; Sustainability has always been central to our philosophy and is entwined in our culture and in how we conduct business. We focus our efforts towards Sustainable Development under five strategic themes – i.e Financial Inclusion and Literacy, Social and Environmental Risk Assessment, Green Finance, Environment Conservation and Education.
 
+Sub-pages:
+- Commitment to Sustainability
+- Corporate Social Responsibility
+- Position Statement on Climate Change
+- ComBank Summit 2025
 
-Position Statement on Climate Change
-
-
-ComBank Summit 2025
+================================================================================
+SECTION 7: TOOLS & UTILITIES
+================================================================================
 
 Tools & Calculator
 Rewards & Promotion
@@ -121,69 +118,164 @@ Rates & Tariffs
 Exchange Rates
 Applications
 Important Notices
-How can we help?
-If you`d like more help & information, you can:
 
+================================================================================
+SECTION 8: COMPLETE HISTORY TIMELINE (1920 - 2024)
+================================================================================
 
-Rate us
+History: Commercial Bank of Ceylon PLC (also known as Commercial Bank or ComBank) has 100 years of unparalleled growth and achievement. Having made a distinctive mark in Sri Lankan banking history, we stand out for our superlative service and technological superiority.
 
-Your feedback
+THE HISTORY OF COMMERCIAL BANK (Detailed Timeline)
 
-Visit us in
+1920: The Eastern Bank Ltd. (EBL) opened a branch in Chatham Street.
 
-Your local branch
+1957: The share capital of Eastern Bank was acquired by the Chartered Bank.
 
-Call us to
+1969: The Commercial Bank of Ceylon Ltd. was incorporated with Eastern Bank holding 40% of its equity.
 
-Talk to an Advisor
-Follow us:
-icon
-Contact combank via viber
-Quick Links
-Correspondent Banks
-CBSL - Customer Charter
-Complaints and Grievances
-Registering 'US Persons' under Foreign Account Tax Compliance Act
-Policies & Procedures
-Properties for Sale
-General Terms and Conditions (Accounts of Customers, Operations and Transactions)
-About Us
-Our History
-Achievements
-Social Responsibility
-Board of Directors
-Corporate Management
-Careers
-Latest Market Watch Report
-Personal Banking
-Savings Accounts
-Deposits
-Current Accounts
-Cards
-Loans
-Business Banking
-Corporate Banking
-Trade Finance
-Treasury
-SME
-Investment Banking
-Non Resident Banking
-Savings Accounts
-Deposits
-Loans
-Investments
-Sending Money
-image
+1971: The business of the Eastern Bank was taken over by the Chartered Bank.
+
+1972: First Commercial Bank Branch was opened at Galewela.
+
+1973: The Galle, Jaffna and Kandy branches of the Mercantile Bank Ltd. were acquired by Commercial Bank.
+
+1979: The Foreign Currency Banking Unit (FCBU) was formed.
+
+1980: Commercial Development Company Ltd. (CDC) was incorporated to construct a Headquarters for the Bank with a 40% equity participation.
+
+1984: Opening of the Commercial Development Company New Building. The Headquarters of the Bank was shifted to ‘Commercial House’, No. 21, Bristol Street (now known as Sir Razik Fareed Mawatha), Colombo 01.
+
+1987: Eastern Bank Ltd. changed its name to Standard Chartered (UK) Holdings Ltd.
+
+1988: An associate company, Commercial Leasing Company Ltd. was formed.
+
+1990: Introduced ATM facilities to its customers.
+
+1993: Implemented the Core Banking Software - International Comprehensive Banking System (ICBS).
+
+1996: Shareholding in Commercial Development Company Ltd. increased to 94.55% through a share swap.
+
+1997: Standard Chartered Bank sold its 40% stake in the Bank.
+
+1998: Opening of Commercial Bank's 50th Branch in Dambulla. 365-day branch at Colombo 07 was opened. All branches except Jaffna were linked to the ICBS.
+
+1999: Won the Best Bank in Sri Lanka award. Banking and super marketing were combined by opening the first ‘MiniCom’.
+
+2000: Online Banking was launched.
+
+2001: Opened the 100th branch at Kaduruwela and the Gold Trading Unit at the Foreign Branch.
+
+2003: The operations of Credit Agricole Indosuez in Bangladesh was taken over.
+
+2004: Commercial Bank Social Responsibility Trust was set up.
+
+2005: US $65 Mn two-year syndicated loan was offered (first time for a non-sovereign corporate in the country). Introduced the first mobile ATM in the country.
+
+2006: Raised US $10 Mn. by issuing a five-year bond, the first of its kind by an indigenous bank in Sri Lanka. Opened 150th branch at Mahiyanganaya.
+
+2008: Sold off its 30% stake in the equity of Commercial Leasing Company PLC. Became the first Sri Lankan bank to be ranked among the ‘Top 1000 Banks in the World’.
+
+2009: Became the first and only Bank in Sri Lanka to be CMMi certified.
+
+2010: Received 12th ‘Best Bank’ Award from Global Finance. Installed its 400th ATM at the Ruwanwella branch adding 50 ATMs during the year.
+
+2011: Installation of 500th ATM at the Maradana Railway Station. Became the only Sri Lankan bank to be ranked among the ‘Top 1000 Banks in the World’ for the 2nd time.
+
+2012: Won Euromoney’s Best Bank award. Became the only Sri Lankan bank to be ranked among the ‘Top 1000 Banks in the World’ for the 3rd time and for the 2nd consecutive year. Donated landmark of 50th IT Lab to President’s College Sri Jayawardenapura, Kotte. Raised US $65 Mn. from the International Finance Corporation (IFC).
+
+2013: Became the only Sri Lankan bank to be ranked among the ‘Top 1000 Banks in the World’ for the 4th time and for the third consecutive year. Raised US $75 million from the IFC as a ten year Subordinated Term Debt that qualifies for Tier II Capital. Adjudged as the ‘Best Local Trade Bank in Sri Lanka’ by ‘Trade Finance (UK)’ for 4th time.
+
+2014: Bank acquired the ownership of Indra Finance Ltd. Adjudged Runner-Up at Best Corporate Citizen awards. Adjudged as Sri Lanka’s ‘Bank of the Year’ by ‘The Banker’ Magazine (UK). Became the only Sri Lankan bank to be ranked among the ‘Top 1000 Banks in the World’ for the 5th time. Adjudged as Sri Lanka’s ‘Best Bank’ for the 16th consecutive year by ‘Global Finance (USA)’. Adjudged ‘The Strongest Bank in Sri Lanka in 2014’ by The Asian Banker. Installed its 600th ATM at the Gold Centre branch.
+
+2015: Received Euromoney’s Best Bank in Sri Lanka award. Received FinanceAsia Best Bank Country Award. Begun Myanmar operations with opening of Yangon office. Launched paperless Green Banking facility. 240th branch Opened in Nochchiyagama.
+
+2016: Commercial Bank of Maldives, a subsidiary of Commercial Bank of Ceylon and a joint venture with Tree Top Investments Maldives, formally inaugurated its banking operations in the Maldives. Launched Sri Lanka’s first Remittance Card.
+
+2017: Commercial Bank of Maldives opened its second branch in Hulhumale.
+
+2018: Opened CBC Myanmar Microfinance Company Limited in Nay Pyi Taw (second fully-owned subsidiary outside Sri Lanka). Launched the country’s first fully-automated cheque deposit machine at City Office Branch in York Street Colombo. Reached 850 ATMs in Sri Lanka and Bangladesh. Launched UnionPay cards (first Sri Lankan bank, making Sri Lanka the 51st country to issue UnionPay cards).
+
+2019: ComBank received 53 international and local awards including ‘Bank of the Year’ 2019 in Sri Lanka from The Banker Magazine (UK) and ‘Best Bank in Sri Lanka - 2019’ from Global Finance (USA).
+
+2020: Celebrated the 100th Anniversary. Launched Smart POS-Mini device with PAYable to promote cashless payments. Awarded ‘Excellent Green Commitment’ by GBCSL. Donated milestone 200th IT Lab to Janadhipathi Vidyalaya, Matara. Joined Sri Lanka Army “Thuru Mithuru” project. Launched CBC Finance as successor to Serendib Finance. Launched Sri Lanka’s first ‘WhatsApp Banking’ facility. Restored Galle Fort branch.
+
+2021: Became Sri Lanka’s first carbon-neutral bank. UK’s CDC Group committed USD 50Mn to bolster SME lending and climate projects. Became the first private sector bank to achieve Loan book surpassing Rs.1 Tn. Became the only Sri Lankan bank ranked in the ‘Top 1000 World Banks’ for the 11th consecutive year. Received Best Corporate Citizen Sustainability Award.
+
+2022: Joined ‘Lanka Remit’ – the National Remittance Mobile App. Launched Women-only Anagi Credit Card. Introduced ‘Wearable Banking’ via Flash Digital Account. Became the first Sri Lankan Bank to introduce card acceptance through Android smartphones (with PAYable). Undertook reforestation of 100-hectare degraded habitat in Kandegama forest, Polonnaruwa. Won national Quality Award from Sri Lanka Standards Institutions. Introduced ‘Visa Direct’ and ‘MasterCard Send’ card-based fund transfer facilities for the first time in Sri Lanka.
+
+2023: Celebrated 20 years of remittance operations in Kuwait & Qatar. Became Official Inbound Sponsor of Sri Lanka Men's National Cricket Team for ODIs & T20s in New Zealand. Launched LankaPay cards. Launched ‘Commercial Bank LEAP’ and ‘Trade Club’ platforms to link local businesses to global markets. Crowned ‘People’s Private Bank of the Year’ at SLIM Kantar People’s Awards. Launched Sri Lanka’s first Teen Digital Bank account ‘Flash FAM’. Combank.lk crowned best website in Sri Lanka. Donated milestone 150th STEM classroom. Embarked on nationwide tree planting campaign ‘Trees for Tomorrow’ (100,000 trees).
+
+2024: Unveiled evolved logo symbolising commitment to sustainability. Jaffna Branch received Platinum Award from Green Building Council. Opened first “DigiZone” Experience Centre at Wellawatte branch. Enabled Alipay QR payments for merchants. Debenture Issue (largest ever by a private sector bank) oversubscribed on opening day, raising Rs. 20 Bn. Became first Sri Lankan Bank to join PCAF (Partnership for Carbon Accounting Financials). Became first bank in Sri Lanka to receive Corporate Finance Advisor licence from SEC.
+
+================================================================================
+SECTION 9: CUSTOMER SUPPORT & HELP
+================================================================================
+
+How can we help? If you'd like more help & information, you can:
+- Rate us (Your feedback)
+- Visit your local branch
+- Call to talk to an Advisor
+
+Follow us on social media (icon links). Contact via Viber.
+
+Quick Links:
+- Correspondent Banks
+- CBSL - Customer Charter
+- Complaints and Grievances
+- Registering 'US Persons' under Foreign Account Tax Compliance Act (FATCA)
+- Policies & Procedures
+- Properties for Sale
+- General Terms and Conditions (Accounts of Customers, Operations and Transactions)
+
+================================================================================
+SECTION 10: FOOTER NAVIGATION & DETAILS
+================================================================================
+
+Footer Navigation:
+
+About Us:
+- Our History
+- Achievements
+- Social Responsibility
+- Board of Directors
+- Corporate Management
+- Careers
+- Latest Market Watch Report
+
+Personal Banking:
+- Savings Accounts
+- Deposits
+- Current Accounts
+- Cards
+- Loans
+
+Business Banking:
+- Corporate Banking
+- Trade Finance
+- Treasury
+- SME
+- Investment Banking
+
+Non Resident Banking:
+- Savings Accounts
+- Deposits
+- Loans
+- Investments
+- Sending Money
+
+Address:
 Commercial Bank Of Ceylon PLC,
-Commercial House, No 21, Sir Razik Fareed Mawatha, P.O. Box 856 Colombo 01, Sri Lanka.
+Commercial House, No 21, Sir Razik Fareed Mawatha,
+P.O. Box 856, Colombo 01, Sri Lanka.
 
 Supervised by the Central Bank of Sri Lanka | Fitch Rating AA- (lka)
 
-Legal Notice
-Privacy Notice
-Accessibility
-Security Measures
+Legal Notice | Privacy Notice | Accessibility | Security Measures
+
 © 2026 Commercial Bank of Ceylon PLC All Rights Reserved.
 
 Design & Development by Saberion.
 
+================================================================================
+END OF DOCUMENT
+================================================================================
