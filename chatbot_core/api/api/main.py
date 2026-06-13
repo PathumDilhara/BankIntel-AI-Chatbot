@@ -22,7 +22,7 @@ def root():
     }
 
 
-
+# NOTE : Run project always on root otherwise defined paths may be wrong
 
 
 
