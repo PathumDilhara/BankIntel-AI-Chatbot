@@ -34,15 +34,12 @@ class ChatOrchestrator:
         print(f"### Updated message : {updated_message}")
         relevant_docs = self.retriever.get_relevant_docs(query= updated_message)
 
-        # Convert docs_list → text
+        # Convert docs_list -> text
         combined_docs = "\n".join([f" - {doc.page_content}" for doc in relevant_docs])
-        #print("### 2 ", combined_docs)
 
         # 2. ====================== Classify intent with BERT ======================
         intent = "unknwon"
-
         i, c = self.bert_classifier.predict(msg=updated_message).values()
-        
         if c >= 0.5:
             intent=i
 
@@ -57,7 +54,7 @@ class ChatOrchestrator:
 
         # 4. ====================== Generate answer with LLaMA ======================
         response = self.llama.generate(prompt=prompt)
-        print("### 4 ", response)
+        print("### 4 response : ", response)
 
         # 5. ====================== update chat history ======================
         self.chat_memory.add(user_message=updated_message, bot_response=response)
@@ -66,4 +63,21 @@ class ChatOrchestrator:
         return {
             "intent": intent,
             "response": response
+        } # dic
+    
+
+    def get_response_test(self, user_message:str)-> str:
+       
+        print(f"### User message : {user_message}")
+
+        relevant_docs = self.retriever.get_relevant_docs(query= user_message)
+
+        intent = "unknwon"
+        i, c = self.bert_classifier.predict(msg=user_message).values()
+        if c >= 0.5:
+            intent=i
+        
+        return {
+            "intent": intent,
+            "response": "response"
         } # dic

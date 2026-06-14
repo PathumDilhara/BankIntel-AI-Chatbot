@@ -13,12 +13,13 @@ router = APIRouter()
 
 orchestrator = ChatOrchestrator()
 
-@router.post("/", response_model=ChatResponse)
+@router.post("", response_model=ChatResponse)
 def chat(request:ChatRequest):
     user_message = request.message
 
     # get response dic from orchestrator
     bot_response = orchestrator.get_response(user_message=user_message)
+    # bot_response = orchestrator.get_response_test(user_message=user_message)
 
     # get options to provide to user based on confidence vlaue
     category = intent_category.get(bot_response["intent"], "unknown")

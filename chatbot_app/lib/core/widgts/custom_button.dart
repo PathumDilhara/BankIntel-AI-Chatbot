@@ -9,6 +9,7 @@ Widget customButton({
 }) {
   return Material(
     color: Colors.transparent,
+    borderRadius: BorderRadius.circular(10),
     child: InkWell(
       borderRadius: BorderRadius.circular(10),
       onTap: () => onPressed,
@@ -22,6 +23,7 @@ Widget customButton({
         child: Center(
           child: Text(
             title,
+            overflow: TextOverflow.ellipsis,
             style: TextStyle(
               color: textColor,
               fontWeight: FontWeight.w400,
