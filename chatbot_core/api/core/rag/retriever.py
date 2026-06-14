@@ -21,13 +21,13 @@ class Retriever:
             embedding_function=self.embedding_model
         )
 
-    def get_relevant_docs(self, updated_question):
+    def get_relevant_docs(self, query:str):
         
         # define retriever
         retriever = self.db.as_retriever(search_kwargs={"k":3})
 
         # get relevant docs as a list
-        docs = retriever.invoke(updated_question)
+        docs = retriever.invoke(query)
 
         
         return docs # list of Documents

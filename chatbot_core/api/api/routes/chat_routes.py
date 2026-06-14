@@ -21,11 +21,11 @@ def chat(request:ChatRequest):
 
     return ChatResponse(response=bot_response)
 
-# Testing : delete in production
+# TODO : delete in production
 @router.post("/r", response_model=ChatResponse)
 def retriever_test(request: ChatRequest):
     #print("getting relevant docs")
     
-    response = r.get_relevant_docs(updated_question=request.message)
+    response = r.get_relevant_docs(query=request.message)
                                    
     return ChatResponse(response=str(response))

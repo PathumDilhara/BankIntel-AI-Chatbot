@@ -1,27 +1,46 @@
+from core.memory.chat_history import ChatMemory
+from langchain_core.messages import SystemMessage, HumanMessage
+
 class PromptBuilder:
-    
-    def build_prompt(self, user_message:str, context:str, intent:str)-> str:
-        prompt = f"""
-                You are a helpful banking assistant chatbot.
+    def build_prompt(self, user_message:str, intent:str, context:str, chat_history:list):
+        
+        msg= f"""
+            Intent:
+            {intent}
 
-                Use the Context, Intent & user question below to answer the user.
-                If Intent is unknown ignore it and moce with context.
-                If context is empty, use general knowledge.
+            Context:
+            {context}
 
-                Intent:
-                {intent}
-
-                --------------------
-                Context:
-                {context}
-                --------------------
-
-                User question:
-                {user_message}
-
-                Answer clearly and professionally.
-                Don't include anything about soruces such as 'according to the information from documents'.
-                Response should be less than 200 characters.
+            User message:
+            {user_message}
         """
 
-        return prompt.strip() # str
+        prompt= [
+                SystemMessage(content="""
+                    You are a helpful banking assistant that answer questions based on provided documents, Intent, conversation history.
+                    If conversation hostory is empty or intent is 'unknown' just ignore them.
+                    In the response don't mention about documents or sources such as 'according to the provided dopcuments...'.
+                    Answer should be less thatn 200 chars.
+                """),
+        ] + list(chat_history) + [
+                HumanMessage(content= msg)
+        ]
+            
+        return prompt # list
+    
+    def build_question_update_prompt(self, user_message:str, chat_history:list):
+
+        prompt = [
+            SystemMessage(content="""
+                Given the conversation history and the latest user message,
+                rewrite the latest message into a complete standalone search query.
+                Preserve the original meaning.
+                Do not answer the question.
+                Return only the rewritten query.
+            """)
+        ] + list(chat_history) + [
+            HumanMessage(content=f"New question : {user_message}")
+        ]
+
+        return prompt # list
+        

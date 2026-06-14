@@ -11,5 +11,6 @@ class LlamaClient:
 
     # Send the prompt to the model and get response as str
     def generate(self, prompt:str)-> str:
+        print("### LLM genrating answer...")
         response = self.llm.invoke(prompt)
-        return response.content # str
+        return response.content.strip() # str
