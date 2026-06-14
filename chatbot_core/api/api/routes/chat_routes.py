@@ -5,8 +5,9 @@ from api.schemas.response import ChatResponse
 from core.orchestrator import ChatOrchestrator
 
 from core.rag.retriever import Retriever
+from utils.intent_categories import intent_category
+from utils.reasponse_templates import response_templates
 
-r = Retriever()
 
 router = APIRouter()
 
@@ -16,16 +17,11 @@ orchestrator = ChatOrchestrator()
 def chat(request:ChatRequest):
     user_message = request.message
 
-    # get response str from orchestrator
+    # get response dic from orchestrator
     bot_response = orchestrator.get_response(user_message=user_message)
 
-    return ChatResponse(response=bot_response)
-
-# TODO : delete in production
-@router.post("/r", response_model=ChatResponse)
-def retriever_test(request: ChatRequest):
-    #print("getting relevant docs")
+    # get options to provide to user based on confidence vlaue
+    category = intent_category.get(bot_response["intent"], "unknown")
+    options = response_templates.get(category, response_templates["unknown"])
     
-    response = r.get_relevant_docs(query=request.message)
-                                   
-    return ChatResponse(response=str(response))
+    return ChatResponse(response=bot_response["response"], options=options)
